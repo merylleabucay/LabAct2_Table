@@ -1,0 +1,70 @@
+table, td, th, tbody{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+    margin: 36px;
+    text-align: center;
+    font-size: small;
+    
+   }
+
+/* STATUS */
+.sub1 {
+    background-color: #8de0f5;
+}
+.curtaken {
+    background-color: rgb(255, 255, 27);
+}
+ 
+   .studId {
+    background-color: #ffffff;
+   }
+
+   table td {    
+    padding: 12px;
+    font-size: small;
+    border-top: 1px solid #bebdbd;
+  }
+  
+  table tr :hover {
+      background-color: #dedede;
+  }
+/* COURSE DESCRIPTION */
+.coursedes {
+    background-color: #d6d6d6;
+}
+
+/* SUBJECTS */
+.sem1-1 {
+    font-weight: 600;
+    background-color: #2e8ed8;
+    
+}
+.sem1-2 {
+       font-weight: 600;
+       background-color: #2e8ed8;
+}
+   .sem2-1 {
+       font-weight: 600;
+       background-color: #2e8ed8;
+   }
+   .sem2-2 {
+       font-weight: 600;
+       background-color: #2e8ed8;
+   }
+   .sem3-1 {
+       font-weight: 600;
+       background-color: #2e8ed8;
+   }
+   .sem3-2 {
+       font-weight: 600;
+       background-color: #2e8ed8;
+   }
+   .sem4-1 {
+       font-weight: 600;
+       background-color: #2e8ed8;
+   }
+   .sem4-2 {
+       font-weight: 600;
+       background-color: #2e8ed8;
+   }
